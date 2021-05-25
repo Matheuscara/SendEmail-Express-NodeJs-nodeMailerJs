@@ -1,0 +1,26 @@
+{
+  "name": "sendemail-nodemailer",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000e\u0000n\u0000d\u0000E\u0000m\u0000a\u0000i\u0000l\u0000-\u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000-\u0000N\u0000o\u0000d\u0000e\u0000J\u0000s\u0000-\u0000n\u0000o\u0000d\u0000e\u0000M\u0000a\u0000i\u0000l\u0000e\u0000r\u0000J\u0000s\u0000\r\u0000 \u0000",
+  "main": "node.js",
+  "scripts": {
+    "debug": "nodemon ./node.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheuscara/SendEmail-Express-NodeJs-nodeMailerJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheuscara/SendEmail-Express-NodeJs-nodeMailerJs/issues"
+  },
+  "homepage": "https://github.com/Matheuscara/SendEmail-Express-NodeJs-nodeMailerJs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^16.1.0",
+    "nodemailer": "^6.6.0",
+    "nodemon": "^2.0.7"
+  }
+}
